@@ -1,5 +1,5 @@
 <pre>
-Hi, thank for visiting
+Hi, Thanks for visiting
 Feel free to explore, contribute, and provide feedback! Let's build something awesome together.
   
 </pre> 
