@@ -39,10 +39,9 @@ I am a Full Stack developer, math enthusiast <img src="https://media.giphy.com/m
   <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Socket.io" alt="Socket" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-  
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Three.js" alt="Three.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT" alt="qt" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-plain-wordmark.svg" title="Data Structure & Algorithms" alt="DSA" width="40" height="40"/>&nbsp;
 </div>
 
 
